@@ -1,4 +1,4 @@
-# HousingPrice-dataset-Loss_gradientDecen-
+# Loss & gradientDecent functions using HousingPrice dataset
 
 - load HousingPrice dataset
 - Generate 1000 linear samples randomly that follow the following equation: 
